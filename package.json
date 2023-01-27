@@ -1,0 +1,26 @@
+{
+  "name": "department-stats",
+  "version": "1.0.0",
+  "description": "\"mysql/npm query run for employee/dept stats\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stonegroundmustard/departmentstats.git"
+  },
+  "keywords": [
+    "\"data\""
+  ],
+  "author": "\"Fox Stokes\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stonegroundmustard/departmentstats/issues"
+  },
+  "homepage": "https://github.com/stonegroundmustard/departmentstats#readme",
+  "dependencies": {
+    "console.table": "^0.10.0"
+  }
+}
